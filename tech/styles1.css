@@ -1,0 +1,31 @@
+body{
+    font-family: 'Anuphan',tahoma;
+    font-style: normal;
+}
+
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.home-icon{
+    width: 25px;
+    height: 25px;
+}
+
+.submit{
+    font-family: 'Anupham',tahoma;
+    font-weight:bold ;
+    font-style: normal;
+}
+
+.block{
+    width:50%;
+    height:auto;
+    padding: 5px;
+    margin: 5px;
+}
+
+.content{
+    margin-left: 20%;
+}
